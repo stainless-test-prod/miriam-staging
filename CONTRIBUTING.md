@@ -42,15 +42,15 @@ If you’d like to use the repository from source, you can either install from g
 To install via git:
 
 ```sh
-$ npm install git+ssh://git@github.com:stainless-sdks-staging/miriam-staging-typescript.git
+$ npm install git+ssh://git@github.com:stainless-test-prod/miriam-staging.git
 ```
 
 Alternatively, to link a local copy of the repo:
 
 ```sh
 # Clone
-$ git clone https://www.github.com/stainless-sdks-staging/miriam-staging-typescript
-$ cd miriam-staging-typescript
+$ git clone https://www.github.com/stainless-test-prod/miriam-staging
+$ cd miriam-staging
 
 # With yarn
 $ yarn link
