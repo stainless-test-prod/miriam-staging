@@ -1,4 +1,4 @@
 configured_endpoints: 4
 openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs-5vak/miriam-staging%2Fmiriam-staging-8aa582a7919784856be2998eb6246ae646d5077c4e7ceb521364f57a31481750.yml
 openapi_spec_hash: 4ef6277e0230588b3d6d5a66dea76b66
-config_hash: 0ba41ab75410a4dc0401c3e821682c2a
+config_hash: 10ffbedb8245fb8aea9464c617c5181c
