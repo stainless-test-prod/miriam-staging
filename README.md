@@ -4,7 +4,7 @@
 
 This library provides convenient access to the Miriam Staging REST API from server-side TypeScript or JavaScript.
 
-The REST API documentation can be found on [swagger.ioo](https://swagger.ioo). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found on [swagger.io](https://swagger.io). The full API of this library can be found in [api.md](api.md).
 
 It is generated with [Stainless](https://www.stainless.com/).
 
@@ -80,7 +80,7 @@ async function main() {
 main();
 ```
 
-Error codes are as followed:
+Error codes are as follows:
 
 | Status Code | Error Type                 |
 | ----------- | -------------------------- |
