@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.1.0-alpha.9 (2025-05-06)
+
+Full Changelog: [v0.1.0-alpha.8...v0.1.0-alpha.9](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.8...v0.1.0-alpha.9)
+
+### Features
+
+* **api:** update via SDK Studio ([144aa4a](https://github.com/stainless-test-prod/miriam-staging/commit/144aa4a7b61617dbf4da932297e183b469b3f804))
+
+
+### Chores
+
+* **internal:** fix format script ([bc899bb](https://github.com/stainless-test-prod/miriam-staging/commit/bc899bba6e661e506ca373a8fef592967385a7eb))
+* **internal:** share typescript helpers ([62f4b53](https://github.com/stainless-test-prod/miriam-staging/commit/62f4b538493db4409570aff3f8251c172c4bc656))
+
 ## 0.1.0-alpha.8 (2025-05-01)
 
 Full Changelog: [v0.1.0-alpha.7...v0.1.0-alpha.8](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.7...v0.1.0-alpha.8)
