@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.1.0-alpha.13 (2025-05-07)
+
+Full Changelog: [v0.1.0-alpha.12...v0.1.0-alpha.13](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.12...v0.1.0-alpha.13)
+
+### Features
+
+* **api:** update via SDK Studio ([e294a7a](https://github.com/stainless-test-prod/miriam-staging/commit/e294a7a68ae91c5b7149b0ad4c67db2fce120851))
+* **client:** add withOptions helper ([82ce490](https://github.com/stainless-test-prod/miriam-staging/commit/82ce490bc120819205961099c5a8490afaff672d))
+
+
+### Chores
+
+* **client:** drop support for EOL node versions ([84ade80](https://github.com/stainless-test-prod/miriam-staging/commit/84ade80eaa3a848f9ba8dd5435187d636a938084))
+
 ## 0.1.0-alpha.12 (2025-05-06)
 
 Full Changelog: [v0.1.0-alpha.11...v0.1.0-alpha.12](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.11...v0.1.0-alpha.12)
