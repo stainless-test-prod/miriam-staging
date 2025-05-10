@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.17 (2025-05-10)
+
+Full Changelog: [v0.1.0-alpha.16...v0.1.0-alpha.17](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.16...v0.1.0-alpha.17)
+
+### Bug Fixes
+
+* **client:** always overwrite when merging headers ([feaccff](https://github.com/stainless-test-prod/miriam-staging/commit/feaccff8cea5b9dc5139f2c64e811eaa25c1d49c))
+
 ## 0.1.0-alpha.16 (2025-05-07)
 
 Full Changelog: [v0.1.0-alpha.15...v0.1.0-alpha.16](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.15...v0.1.0-alpha.16)
