@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.35 (2025-05-22)
+
+Full Changelog: [v0.1.0-alpha.34...v0.1.0-alpha.35](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.34...v0.1.0-alpha.35)
+
+### Chores
+
+* **docs:** grammar improvements ([7359610](https://github.com/stainless-test-prod/miriam-staging/commit/73596107d1281edf21319a3c4d123194aa9c9159))
+
 ## 0.1.0-alpha.34 (2025-05-15)
 
 Full Changelog: [v0.1.0-alpha.33...v0.1.0-alpha.34](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.33...v0.1.0-alpha.34)
