@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.1.0-alpha.36 (2025-06-03)
+
+Full Changelog: [v0.1.0-alpha.35...v0.1.0-alpha.36](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.35...v0.1.0-alpha.36)
+
+### Features
+
+* **api:** update via SDK Studio ([ad37491](https://github.com/stainless-test-prod/miriam-staging/commit/ad37491164a699c146ddcbcca9638b4af42400e8))
+
+
+### Chores
+
+* adjust eslint.config.mjs ignore pattern ([b78d1ec](https://github.com/stainless-test-prod/miriam-staging/commit/b78d1ec7e9f9672fbef0e5c85ac950f718e1c45a))
+* **internal:** codegen related update ([e924c84](https://github.com/stainless-test-prod/miriam-staging/commit/e924c84803af72c739ec812bfd3dd2e86f09c7fe))
+
 ## 0.1.0-alpha.35 (2025-06-03)
 
 Full Changelog: [v0.1.0-alpha.34...v0.1.0-alpha.35](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.34...v0.1.0-alpha.35)
