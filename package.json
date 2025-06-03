@@ -1,6 +1,6 @@
 {
   "name": "miriam-staging",
-  "version": "0.1.0-alpha.38",
+  "version": "0.1.0-alpha.39",
   "description": "The official TypeScript library for the Miriam Staging API",
   "author": "Miriam Staging <apiteam@swagger.io>",
   "types": "dist/index.d.ts",
