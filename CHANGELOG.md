@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.1.0-alpha.35 (2025-06-03)
+
+Full Changelog: [v0.1.0-alpha.34...v0.1.0-alpha.35](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.34...v0.1.0-alpha.35)
+
+### Features
+
+* **api:** update via SDK Studio ([6f7ef3e](https://github.com/stainless-test-prod/miriam-staging/commit/6f7ef3e0f227952e291b0f27ccaa44cf7fe9ec47))
+
+
+### Chores
+
+* **docs:** grammar improvements ([7359610](https://github.com/stainless-test-prod/miriam-staging/commit/73596107d1281edf21319a3c4d123194aa9c9159))
+* improve publish-npm script --latest tag logic ([1f2a63b](https://github.com/stainless-test-prod/miriam-staging/commit/1f2a63bf366fcb075fc4407b2204c6416322488e))
+
 ## 0.1.0-alpha.34 (2025-05-15)
 
 Full Changelog: [v0.1.0-alpha.33...v0.1.0-alpha.34](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.33...v0.1.0-alpha.34)
