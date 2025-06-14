@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.1.0-alpha.42 (2025-06-14)
+
+Full Changelog: [v0.1.0-alpha.41...v0.1.0-alpha.42](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.41...v0.1.0-alpha.42)
+
+### Chores
+
+* **internal:** add pure annotations, make base APIResource abstract ([b2e5a41](https://github.com/stainless-test-prod/miriam-staging/commit/b2e5a41df5cc01d243733be491e397e8822e5fff))
+* **internal:** codegen related update ([0b6fef7](https://github.com/stainless-test-prod/miriam-staging/commit/0b6fef77edcd92268332be3be6203702c875aa24))
+* **internal:** codegen related update ([88264bf](https://github.com/stainless-test-prod/miriam-staging/commit/88264bfa5283c4f0cf47d7d1663a4ee372f048b9))
+* **internal:** codegen related update ([b81f3a3](https://github.com/stainless-test-prod/miriam-staging/commit/b81f3a3ed3c10e23ac9431f7a36c9c0de3625392))
+* **internal:** codegen related update ([23c5445](https://github.com/stainless-test-prod/miriam-staging/commit/23c5445dab669581118b369717d9341c0bcdd10a))
+
 ## 0.1.0-alpha.41 (2025-06-14)
 
 Full Changelog: [v0.1.0-alpha.40...v0.1.0-alpha.41](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.40...v0.1.0-alpha.41)
