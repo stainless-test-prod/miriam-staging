@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.1.0-alpha.41 (2025-06-14)
+
+Full Changelog: [v0.1.0-alpha.40...v0.1.0-alpha.41](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.40...v0.1.0-alpha.41)
+
+### Bug Fixes
+
+* publish script — handle NPM errors correctly ([ff6b88c](https://github.com/stainless-test-prod/miriam-staging/commit/ff6b88cc534cf2a0df1b63ab8ebc3b3123258ed2))
+
+
+### Chores
+
+* avoid type error in certain environments ([556b37e](https://github.com/stainless-test-prod/miriam-staging/commit/556b37e76e92fb9957ef016504b8d56f01d4bdb3))
+* **internal:** codegen related update ([7cd6400](https://github.com/stainless-test-prod/miriam-staging/commit/7cd640083fcf168ffde52aded93dd48f25e7ebb3))
+* **internal:** codegen related update ([fae93d5](https://github.com/stainless-test-prod/miriam-staging/commit/fae93d5d717e052e0e5fe0ad5f6b86c9bf48f011))
+* **internal:** codegen related update ([66bde83](https://github.com/stainless-test-prod/miriam-staging/commit/66bde837a393f1391d6b7e5861f671268b8e3ba7))
+
 ## 0.1.0-alpha.40 (2025-06-04)
 
 Full Changelog: [v0.1.0-alpha.39...v0.1.0-alpha.40](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.39...v0.1.0-alpha.40)
