@@ -1,6 +1,7 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
 import { APIResource } from '../core/resource';
+import * as PetsAPI from './pets';
 import { APIPromise } from '../core/api-promise';
 import { buildHeaders } from '../internal/headers';
 import { RequestOptions } from '../internal/request-options';
@@ -53,10 +54,7 @@ export class Pets extends APIResource {
    * deletes a single pet based on the ID supplied
    */
   delete(id: number, options?: RequestOptions): APIPromise<void> {
-    return this._client.delete(path`/pets/${id}`, {
-      ...options,
-      headers: buildHeaders([{ Accept: '*/*' }, options?.headers]),
-    });
+    return this._client.delete(path`/pets/${id}`, { ...options, headers: buildHeaders([{Accept: '*/*'}, options?.headers]) });
   }
 }
 
@@ -79,7 +77,7 @@ export interface Pet extends NewPet {
   id: number;
 }
 
-export type PetListResponse = Array<Pet>;
+export type PetListResponse = Array<Pet>
 
 export interface PetCreateParams {
   /**
@@ -111,6 +109,6 @@ export declare namespace Pets {
     type Pet as Pet,
     type PetListResponse as PetListResponse,
     type PetCreateParams as PetCreateParams,
-    type PetListParams as PetListParams,
+    type PetListParams as PetListParams
   };
 }
