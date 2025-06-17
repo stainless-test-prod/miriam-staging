@@ -2,7 +2,7 @@
 
 import type { MiriamStaging } from '../client';
 
-export abstract class APIResource {
+export class APIResource {
   protected _client: MiriamStaging;
 
   constructor(client: MiriamStaging) {
