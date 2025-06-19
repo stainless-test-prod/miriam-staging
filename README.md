@@ -1,6 +1,6 @@
 # Miriam Staging TypeScript API Library
 
-[![NPM version](https://img.shields.io/npm/v/miriam-staging.svg)](https://npmjs.org/package/miriam-staging) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/miriam-staging)
+[![NPM version](<https://img.shields.io/npm/v/miriam-staging.svg?label=npm%20(stable)>)](https://npmjs.org/package/miriam-staging) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/miriam-staging)
 
 This library provides convenient access to the Miriam Staging REST API from server-side TypeScript or JavaScript.
 
