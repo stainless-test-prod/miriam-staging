@@ -1,5 +1,59 @@
 # Changelog
 
+## 0.1.0-alpha.42 (2025-06-21)
+
+Full Changelog: [v0.1.0-alpha.41...v0.1.0-alpha.42](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.41...v0.1.0-alpha.42)
+
+### Features
+
+* **client:** add support for endpoint-specific base URLs ([c8ca39c](https://github.com/stainless-test-prod/miriam-staging/commit/c8ca39cd80fe6644d03738aac0cb2e33debaf4eb))
+
+
+### Bug Fixes
+
+* **client:** explicitly copy fetch in withOptions ([1f8e6df](https://github.com/stainless-test-prod/miriam-staging/commit/1f8e6df38ff45f842645cda795beded8e60307eb))
+
+
+### Chores
+
+* **ci:** enable for pull requests ([78ce556](https://github.com/stainless-test-prod/miriam-staging/commit/78ce5564ac465806da837609a74c2b1a72727d4b))
+* **client:** refactor imports ([c12c101](https://github.com/stainless-test-prod/miriam-staging/commit/c12c10134972a779a6e1ea63674a402bc447493f))
+* **internal:** add pure annotations, make base APIResource abstract ([b2e5a41](https://github.com/stainless-test-prod/miriam-staging/commit/b2e5a41df5cc01d243733be491e397e8822e5fff))
+* **internal:** codegen related update ([d6129e0](https://github.com/stainless-test-prod/miriam-staging/commit/d6129e0a94cc8f932e033af1812418875104dcae))
+* **internal:** codegen related update ([6689abb](https://github.com/stainless-test-prod/miriam-staging/commit/6689abb2df572033bb24dde99012160301dd308d))
+* **internal:** codegen related update ([3df3efb](https://github.com/stainless-test-prod/miriam-staging/commit/3df3efbeb2c3dca65f7ff27b5384f807d58c5a3d))
+* **internal:** codegen related update ([4df357a](https://github.com/stainless-test-prod/miriam-staging/commit/4df357afd4ddff298a6a399cba3b99c6a56dee24))
+* **internal:** codegen related update ([c11e1f1](https://github.com/stainless-test-prod/miriam-staging/commit/c11e1f10c0f493dc0705a704c365f0afc0ce79ba))
+* **internal:** codegen related update ([2ab81c3](https://github.com/stainless-test-prod/miriam-staging/commit/2ab81c3bea802eb2e3ce1818bedb273e33638d5b))
+* **internal:** codegen related update ([0d8b3aa](https://github.com/stainless-test-prod/miriam-staging/commit/0d8b3aa76937e9d4f226bcc0342700d20bb7480f))
+* **internal:** codegen related update ([96c7ba4](https://github.com/stainless-test-prod/miriam-staging/commit/96c7ba431dabe895df6ae4800ddfc9a2c9c414ba))
+* **internal:** codegen related update ([681cf0f](https://github.com/stainless-test-prod/miriam-staging/commit/681cf0f70fc02eaaf3655060e76807f23c9b8d2a))
+* **internal:** codegen related update ([8a14c2a](https://github.com/stainless-test-prod/miriam-staging/commit/8a14c2a0f28d1f6ccb0a79bfb1011b490b854cde))
+* **internal:** codegen related update ([eefcd23](https://github.com/stainless-test-prod/miriam-staging/commit/eefcd23e306ae6e23f935572acb7abb16215a345))
+* **internal:** codegen related update ([290aba6](https://github.com/stainless-test-prod/miriam-staging/commit/290aba6f89374a7dffe9c072ab1d3e05c0caf0c4))
+* **internal:** codegen related update ([ee309cf](https://github.com/stainless-test-prod/miriam-staging/commit/ee309cf371ec07e89ee724173b35d7a33109d9dd))
+* **internal:** codegen related update ([26b53be](https://github.com/stainless-test-prod/miriam-staging/commit/26b53be76bccb746412df2e471cf1ae60fd13a79))
+* **internal:** codegen related update ([7eb80bd](https://github.com/stainless-test-prod/miriam-staging/commit/7eb80bdff786b3f2bd20abf388b5c5e55fb77373))
+* **internal:** codegen related update ([e40039e](https://github.com/stainless-test-prod/miriam-staging/commit/e40039e7f6cc69ddaade57e855de44097a58fef2))
+* **internal:** codegen related update ([1a2bb33](https://github.com/stainless-test-prod/miriam-staging/commit/1a2bb338d374f3a520ee12814e6092592c89a002))
+* **internal:** codegen related update ([590cd17](https://github.com/stainless-test-prod/miriam-staging/commit/590cd1755269962375f697d90318ec3d3badd71f))
+* **internal:** codegen related update ([f8bf7de](https://github.com/stainless-test-prod/miriam-staging/commit/f8bf7de8cea8c3d303a34e673f359c5a9c694132))
+* **internal:** codegen related update ([24f09e4](https://github.com/stainless-test-prod/miriam-staging/commit/24f09e437e7abe625b53df20166b9cf3d20379e4))
+* **internal:** codegen related update ([f97cf2a](https://github.com/stainless-test-prod/miriam-staging/commit/f97cf2ae488ab9ab713f67b61d1a31ec1046d8a4))
+* **internal:** codegen related update ([4df3fe9](https://github.com/stainless-test-prod/miriam-staging/commit/4df3fe9792c140317a9122dc8c2764704ce133f1))
+* **internal:** codegen related update ([a226422](https://github.com/stainless-test-prod/miriam-staging/commit/a226422d5cef5904b0ea6b894db2736cf25b2896))
+* **internal:** codegen related update ([8739a83](https://github.com/stainless-test-prod/miriam-staging/commit/8739a839e2ce7f2365eab113c72ac082b9838bc7))
+* **internal:** codegen related update ([e314788](https://github.com/stainless-test-prod/miriam-staging/commit/e314788176b9fb3ee55941c52d274bc4c78b4c21))
+* **internal:** codegen related update ([349ffc8](https://github.com/stainless-test-prod/miriam-staging/commit/349ffc8718f251cf3b9615afe0a411ca55fb7139))
+* **internal:** codegen related update ([c19ec3d](https://github.com/stainless-test-prod/miriam-staging/commit/c19ec3d22a5e4c7a72a71843f03a1fafe3c2d7b6))
+* **internal:** codegen related update ([71cb9f2](https://github.com/stainless-test-prod/miriam-staging/commit/71cb9f2422cc4f255311655d9f319605bf3b1771))
+* **internal:** codegen related update ([0b6fef7](https://github.com/stainless-test-prod/miriam-staging/commit/0b6fef77edcd92268332be3be6203702c875aa24))
+* **internal:** codegen related update ([88264bf](https://github.com/stainless-test-prod/miriam-staging/commit/88264bfa5283c4f0cf47d7d1663a4ee372f048b9))
+* **internal:** codegen related update ([b81f3a3](https://github.com/stainless-test-prod/miriam-staging/commit/b81f3a3ed3c10e23ac9431f7a36c9c0de3625392))
+* **internal:** codegen related update ([23c5445](https://github.com/stainless-test-prod/miriam-staging/commit/23c5445dab669581118b369717d9341c0bcdd10a))
+* **readme:** update badges ([b4c989e](https://github.com/stainless-test-prod/miriam-staging/commit/b4c989ecc079ae80dd9878a5adcf9bae936e703c))
+* **readme:** use better example snippet for undocumented params ([e2c2e66](https://github.com/stainless-test-prod/miriam-staging/commit/e2c2e665ff3bbe8e769fee4bd9fa8870e2a4ffe6))
+
 ## 0.1.0-alpha.41 (2025-06-14)
 
 Full Changelog: [v0.1.0-alpha.40...v0.1.0-alpha.41](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.40...v0.1.0-alpha.41)
