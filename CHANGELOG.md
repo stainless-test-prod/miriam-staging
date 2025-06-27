@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.0-alpha.43 (2025-06-27)
+
+Full Changelog: [v0.1.0-alpha.42...v0.1.0-alpha.43](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.42...v0.1.0-alpha.43)
+
+### Bug Fixes
+
+* **client:** get fetchOptions type more reliably ([adc7dcf](https://github.com/stainless-test-prod/miriam-staging/commit/adc7dcf6a0286b0bf29736044f53720f3f43c7e7))
+
+
+### Chores
+
+* change publish docs url ([2687ce8](https://github.com/stainless-test-prod/miriam-staging/commit/2687ce88e4cf876e0753ab154ddeeb5a349fcbe8))
+
 ## 0.1.0-alpha.42 (2025-06-21)
 
 Full Changelog: [v0.1.0-alpha.41...v0.1.0-alpha.42](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.41...v0.1.0-alpha.42)
