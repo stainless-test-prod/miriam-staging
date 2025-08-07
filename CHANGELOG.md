@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.1.0-alpha.44 (2025-08-07)
+
+Full Changelog: [v0.1.0-alpha.43...v0.1.0-alpha.44](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.43...v0.1.0-alpha.44)
+
+### Chores
+
+* add docs to RequestOptions type ([5c172fd](https://github.com/stainless-test-prod/miriam-staging/commit/5c172fd75df14782cea1c0f8d99529b21ed7a7a0))
+* **ci:** only run for pushes and fork pull requests ([d9f220e](https://github.com/stainless-test-prod/miriam-staging/commit/d9f220eeb94660575a15e94a6c145f79d895a94f))
+* **client:** improve path param validation ([4daba02](https://github.com/stainless-test-prod/miriam-staging/commit/4daba027af8e8945e3a05ae43e691ab6b83f94fb))
+* **internal:** codegen related update ([526d0fd](https://github.com/stainless-test-prod/miriam-staging/commit/526d0fd038f2913937f74decc62a851ff179c57c))
+* **internal:** codegen related update ([cd7ee7a](https://github.com/stainless-test-prod/miriam-staging/commit/cd7ee7a461baf36faa407a8c0296785cc2dcc565))
+* **internal:** codegen related update ([781c8d3](https://github.com/stainless-test-prod/miriam-staging/commit/781c8d3bebf29c0bbc10ebbb23348fa871a84ce6))
+* **internal:** codegen related update ([69da654](https://github.com/stainless-test-prod/miriam-staging/commit/69da6544ee916439ebc93613cdb50a9831ee1cd8))
+* **internal:** codegen related update ([e4e007a](https://github.com/stainless-test-prod/miriam-staging/commit/e4e007af724a7934701848f0486e1a0c9d26203f))
+* **internal:** move publish config ([c37f029](https://github.com/stainless-test-prod/miriam-staging/commit/c37f029fa99ab881ca577f1294bdb385931f01e3))
+* **internal:** remove redundant imports config ([5b2dcda](https://github.com/stainless-test-prod/miriam-staging/commit/5b2dcda55f4d875d9e57d8503c0964236283d520))
+* make some internal functions async ([66aab6d](https://github.com/stainless-test-prod/miriam-staging/commit/66aab6d8bbf8acd4a7f5a2fdaae80fc3ad650bb7))
+* **ts:** reorder package.json imports ([0d514ea](https://github.com/stainless-test-prod/miriam-staging/commit/0d514eaa3cecb0266385ed04c6544b0ae8a792bb))
+
 ## 0.1.0-alpha.43 (2025-06-27)
 
 Full Changelog: [v0.1.0-alpha.42...v0.1.0-alpha.43](https://github.com/stainless-test-prod/miriam-staging/compare/v0.1.0-alpha.42...v0.1.0-alpha.43)
